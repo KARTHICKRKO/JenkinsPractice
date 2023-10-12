@@ -11,7 +11,7 @@ class Karthick {
 
     if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
       System.out.println(str + " is a Palindrome String.");
-      System.out.println("Execution done successfully");
+      
     }
     else {
       System.out.println(str + " is not a Palindrome String.");
